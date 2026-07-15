@@ -1,0 +1,49 @@
+/* CONFIGURAÇÕES DA PÁGINA */
+body{
+    background-color:white;
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+/* CARD */
+.card-noticia{
+    width:500px;
+    background-color:#f9f9f9;
+    border:1px solid #ccc;
+    border-radius:8px;
+    padding:20px;
+    margin:30px auto;
+}
+
+/* TÍTULO */
+.card-noticia h2{
+    color:#333333;
+    margin-top:0;
+}
+
+/* METADADOS */
+.metadados{
+    color:#666666;
+    margin-bottom:15px;
+}
+
+/* CONTEÚDO */
+.conteudo{
+    color:#444444;
+    line-height:22px;
+}
+
+/* BOTÃO */
+.botao{
+    display:inline-block;
+    background-color:#007bff;
+    color:white;
+    text-decoration:none;
+    padding:10px 15px;
+    margin-top:15px;
+    border-radius:5px;
+}
+
+/* HOVER DO BOTÃO */
+.botao:hover{
+    background-color:#0056b3;
+}
