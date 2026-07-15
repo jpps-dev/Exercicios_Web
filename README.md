@@ -40,4 +40,4 @@ Alguns exercícios também possuem uma pasta `img` para armazenar imagens utiliz
 
 ---
 
-Desenvolvido por João Paulo Pedroso Dos Santos como atividade da disciplina de Desenvolvimento Web.
+Desenvolvido por João Paulo Pedroso Dos Santos como atividade da disciplina de Desenvolvimento Web - IFPR.
